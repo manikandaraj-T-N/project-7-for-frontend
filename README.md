@@ -20,7 +20,7 @@ The LogiLand project is a website designed for logistics businesses. It features
 
 ### Links
 
-- [Live Demo]()
+- [Live Demo](https://project-7-for-frontend.vercel.app/)
 
 ## Features
 
