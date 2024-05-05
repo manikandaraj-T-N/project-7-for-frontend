@@ -15,6 +15,7 @@
 The LogiLand project is a website designed for logistics businesses. It features a variety of sections including navigation, carousel for showcasing important content, logistic services, business solutions, service offerings, subscription plans, frequently asked questions, team information, reasons to choose the company, latest news, and a footer.
 
 ### Screenshot
+![Screenshot 2024-05-05 at 09-40-27 LogiLand(1)(1)](https://github.com/manikandaraj-T-N/project-7-for-frontend/assets/93505267/6494df72-7a4f-4265-abe6-be2bf8c6a5e6)
 
 
 ### Links
