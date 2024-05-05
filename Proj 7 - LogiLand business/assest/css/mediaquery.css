@@ -1,0 +1,572 @@
+@media only screen and (min-width:315px) and (max-width:400px) {}
+
+@media only screen and (min-width:315px) and (max-width:450px) {
+    .nav-form-img {
+        display: grid;
+    }
+
+    .logistic-shape-2 img {
+        height: 17vh;
+    }
+
+    .plan {
+        padding-top: 10%;
+    }
+
+    /* **************************************************** */
+    .faq-1 .title::after {
+        left: 10%;
+    }
+
+    .faq-1 .title::before {
+        left: 7%;
+    }
+
+    .team-inner-1 .title::before {
+        left: 7%;
+    }
+
+    .team-inner-1 .title::after {
+        left: 10%;
+    }
+
+    .news-inner-1 .title::before {
+        left: 7%;
+    }
+
+    .news-inner-1 .title::after {
+        left: 10%;
+    }
+}
+
+@media only screen and (min-width:315px) and (max-width:576px) {
+
+    .navbar-bg {
+        height: 170vh;
+    }
+
+    .logoandnavbar-inner {
+        display: flex;
+        gap: 5%;
+        align-items: center;
+        justify-content: space-between;
+        padding: 5%;
+    }
+
+    .nav-search-menu {
+        display: none;
+    }
+
+
+    .logistic-shape-2 {
+        top: -95px;
+    }
+
+    .business-inner-1 h2 {
+        font-size: 36px;
+    }
+
+    .business-2 h2 {
+        font-size: 16px;
+    }
+
+    .business-2 p {
+        font-size: 12px;
+    }
+
+    .nav-form-title {
+        font-size: 32px;
+    }
+
+    .form-email-phone {
+        display: grid;
+    }
+
+    .form-fright-load {
+        display: grid;
+    }
+
+    .form-fright-load select {
+        width: 100%;
+    }
+
+    .nav-form-container form button {
+        margin-top: 20%;
+    }
+
+    .logistic-inner-1 h2 {
+        font-size: 36px;
+    }
+
+    .service-inner-1 h2 {
+        font-size: 36px;
+    }
+
+    .service-icon {
+        display: grid;
+        margin-top: 5%;
+        border-bottom: 1px dashed grey;
+    }
+
+    .service-icon-1 img,
+    .service-icon-2 img {
+        width: 50px;
+    }
+
+    .plan-inner-1 h2 {
+        font-size: 36px;
+    }
+
+    .plan-inner-1 .title::before {
+        left: 14%;
+    }
+
+    .plan-inner-1 .title::after {
+        left: 10%;
+    }
+
+    .faq-1 h2 {
+        font-size: 36px;
+    }
+
+    .team-inner-1 h2 {
+        font-size: 36px;
+    }
+
+    .reason-head h2 {
+        font-size: 36px;
+    }
+
+    .reason-head .title::after,
+    .reason-head .title::before {
+        display: none !important;
+    }
+
+    .news-inner-1 h2 {
+        font-size: 36px;
+    }
+
+    .reason-read {
+        margin-top: 20px;
+    }
+
+    .footer-contact {
+        display: grid;
+        gap: 10%;
+        margin-bottom: 15%;
+    }
+
+    .footer-social {
+        display: grid;
+        margin-bottom: 10%;
+    }
+
+    .footer-social-icons i {
+        width: 50px;
+    }
+}
+
+@media screen and (width:320px) {
+    .navbar-bg {
+        height: 200vh !important;
+    }
+
+    .carousel-item-1,
+    .carousel-item-2,
+    .carousel-item-3 {
+        height: 220vh !important;
+    }
+
+    .carousel-indicators {
+        bottom: 3% !important;
+    }
+}
+
+@media screen and (width:360px) {
+    .navbar-bg {
+        height: 210vh !important;
+    }
+
+    .logistic-shape-2 img {
+        height: 18vh;
+    }
+
+    .logistic-img-icon {
+        top: 40%;
+        bottom: 0%;
+    }
+
+    .carousel-item-1,
+    .carousel-item-2,
+    .carousel-item-3 {
+        height: 215vh !important;
+    }
+
+    .carousel-indicators {
+        bottom: 3% !important;
+    }
+
+}
+
+@media screen and (min-width:380px) and (max-width:550px) {
+    .arrow-image {
+        left: 25%;
+    }
+}
+
+@media screen and (width:375px) {
+    .logistic-img-icon {
+        bottom: 40% !important;
+    }
+}
+
+@media screen and (width:384px) {
+    .logistic-img-content {
+        height: 28vh;
+    }
+
+    .logistic-img-icon {
+        top: 30%
+    }
+
+    .carousel-item-1,
+    .carousel-item-2,
+    .carousel-item-3 {
+        height: 215vh !important;
+    }
+
+    .carousel-indicators {
+        bottom: 3% !important;
+    }
+}
+
+@media screen and (width:390px) {
+    .logistic-img-icon {
+        top: 45%;
+        bottom: 0%;
+    }
+}
+
+@media only screen and (min-width:400px) and (max-width:420px) {
+    .logistic-img-icon {
+        bottom: 30% !important;
+    }
+}
+
+@media screen and (min-width:410px) and (max-width:414px) {
+    .logistic-img-content {
+        height: 20vh;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .arrow-image {
+        left: 15%;
+    }
+
+
+    .carousel-item-1,
+    .carousel-item-2,
+    .carousel-item-3 {
+        height: 215vh !important;
+    }
+
+    .carousel-indicators {
+        bottom: 3% !important;
+    }
+}
+
+@media screen and (width:390px) {
+
+    .carousel-item-1,
+    .carousel-item-2,
+    .carousel-item-3 {
+        height: 215vh !important;
+    }
+
+    .carousel-indicators {
+        bottom: 3% !important;
+    }
+}
+
+
+@media screen and (width:412px) {
+    .logistic-img-content {
+        height: 20vh !important;
+    }
+
+    .navbar-bg {
+        height: 200vh !important;
+    }
+
+    .logistic-img-icon {
+        top: 50%;
+    }
+
+    .carousel-item-1,
+    .carousel-item-2,
+    .carousel-item-3 {
+        height: 175vh !important;
+    }
+
+    .carousel-indicators {
+        bottom: 3% !important;
+    }
+}
+
+@media screen and (width:414px) {
+
+    .arrow-image {
+        left: 20% !important;
+    }
+
+    .navbar-bg {
+        height: 165vh !important;
+    }
+
+    .logistic-shape-2 img {
+        height: 17vh;
+    }
+
+    .logistic-img-icon {
+
+        top: 45% !important;
+    }
+
+    .carousel-item-1,
+    .carousel-item-2,
+    .carousel-item-3 {
+        height: 175vh !important;
+    }
+
+    .carousel-indicators {
+        bottom: 3% !important;
+    }
+}
+
+
+@media screen and (width:428px) {
+
+    .carousel-item-1,
+    .carousel-item-2,
+    .carousel-item-3 {
+        height: 210vh !important;
+    }
+
+    .carousel-indicators {
+        bottom: 3% !important;
+    }
+
+    .logistic-img-icon {
+        bottom: 40%;
+    }
+}
+
+@media only screen and (min-width:420) and (max-width:560px) {
+    .plan-inner-1 .title::before {
+        left: 25% !important;
+    }
+
+    .plan-inner-1 .title::after {
+        left: 27% !important;
+    }
+}
+
+@media only screen and (min-width:450px) and (max-width:650px) {
+    .faq-1 .title::after {
+        left: 19%;
+    }
+
+    .faq-1 .title::before {
+        left: 17%;
+    }
+
+    .team-inner-1 .title::before {
+        left: 17%;
+    }
+
+    .team-inner-1 .title::after {
+        left: 19%;
+    }
+
+    .news-inner-1 .title::before {
+        left: 17%;
+    }
+
+    .news-inner-1 .title::after {
+        left: 19%;
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:768px) {
+    .logoandnavbar-inner {
+        display: flex;
+        gap: 5%;
+        align-items: center;
+        justify-content: space-between;
+        padding: 5%;
+    }
+
+    .navbar-bg {
+        height: 210vh !important;
+    }
+
+    .arrow-image {
+        left: 30%;
+    }
+
+    .service-icon {
+        display: grid;
+        margin-top: 5%;
+        border-bottom: 1px dashed grey;
+    }
+
+    .service-icon-1 img,
+    .service-icon-2 img {
+        width: 50px;
+    }
+
+    .plan-inner-1 .title::before {
+        left: 25%;
+    }
+
+    .plan-inner-1 .title::after {
+        left: 27%;
+    }
+
+    .reason-read {
+        margin-top: 20px;
+    }
+
+    .footer-contact {
+        display: grid;
+        gap: 10%;
+        margin-bottom: 15%;
+    }
+}
+
+@media only screen and (min-width:650px) and (max-width:850px) {
+    .faq-1 .title::after {
+        left: 29%;
+    }
+
+    .faq-1 .title::before {
+        left: 27%;
+    }
+
+    .team-inner-1 .title::before {
+        left: 27%;
+    }
+
+    .team-inner-1 .title::after {
+        left: 29%;
+    }
+
+    .news-inner-1 .title::before {
+        left: 27%;
+    }
+
+    .news-inner-1 .title::after {
+        left: 29%;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:992px) {
+
+    .logistic-shape-2 {
+        position: absolute;
+        z-index: 2;
+        top: -90px;
+        left: -11%;
+        overflow: hidden;
+    }
+
+    .arrow-image {
+        position: absolute;
+        left: 40%;
+        top: -130px;
+        z-index: 3;
+    }
+
+    .plan-inner-1 .title::before {
+        left: 30%;
+    }
+
+    .plan-inner-1 .title::after {
+        left: 32%;
+    }
+
+    .subs-head {
+        margin-top: 5%;
+    }
+}
+
+@media only screen and (min-width:850px) and (max-width:992px) {
+    .faq-1 .title::after {
+        left: 30%;
+    }
+
+    .faq-1 .title::before {
+        left: 28%;
+    }
+
+    .team-inner-1 .title::before {
+        left: 28%;
+    }
+
+    .team-inner-1 .title::after {
+        left: 30%;
+    }
+
+    .news-inner-1 .title::before {
+        left: 28%;
+    }
+
+    .news-inner-1 .title::after {
+        left: 30%;
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1400px) {
+    .logistic-img-icon {
+        bottom: 45%;
+    }
+
+    .plan-inner-1 .title::after {
+        left: 38%;
+    }
+
+    .plan-inner-1 .title::before {
+        left: 37%;
+    }
+
+    .faq-1 .title::after {
+        left: 37%;
+    }
+
+    .faq-1 .title::before {
+        left: 36%;
+    }
+
+    .team-inner-1 .title::before {
+        left: 36%;
+    }
+
+    .team-inner-1 .title::after {
+        left: 37%;
+    }
+
+    .news-inner-1 .title::before {
+        left: 36%;
+    }
+
+    .news-inner-1 .title::after {
+        left: 37%;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    .logistic-img-icon {
+        bottom: 35%;
+    }
+}
